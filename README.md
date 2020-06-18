@@ -1,0 +1,4 @@
+run
+
+scrapy crawl petitions
+
